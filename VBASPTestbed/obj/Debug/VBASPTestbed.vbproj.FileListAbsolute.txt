@@ -1,0 +1,276 @@
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\ApplicationInsights.config
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\VBASPTestbed.dll.config
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\VBASPTestbed.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\VBASPTestbed.pdb
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\WebForms_Basic.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csc.exe
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csc.exe.config
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csc.rsp
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csi.exe
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csi.exe.config
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csi.rsp
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.AppContext.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Console.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\vbc.exe
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\vbc.exe.config
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\vbc.rsp
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Antlr3.Runtime.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Newtonsoft.Json.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\System.Web.Optimization.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\WebGrease.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\System.Web.Optimization.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Newtonsoft.Json.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbprojAssemblyReference.cache
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.Resources.resources
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbproj.GenerateResource.cache
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbproj.CopyComplete
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.dll
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\WebForms_Basic.xml
+C:\Users\Alex\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.pdb
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\ApplicationInsights.config
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\VBASPTestbed.dll.config
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\VBASPTestbed.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\VBASPTestbed.pdb
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\WebForms_Basic.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csc.exe
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csc.exe.config
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csc.rsp
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csi.exe
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csi.exe.config
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\csi.rsp
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.Win32.Primitives.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.AppContext.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Collections.Immutable.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Console.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Diagnostics.Process.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.Compression.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.FileSystem.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.Pipes.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Reflection.Metadata.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.AccessControl.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Claims.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Principal.Windows.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Threading.Thread.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.ValueTuple.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.XmlDocument.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.XPath.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\vbc.exe
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\vbc.exe.config
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\vbc.rsp
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\VBCSCompiler.exe
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\roslyn\VBCSCompiler.exe.config
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Antlr3.Runtime.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\AspNet.ScriptManager.bootstrap.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\AspNet.ScriptManager.jQuery.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.Agent.Intercept.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.DependencyCollector.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.PerfCounterCollector.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.ServerTelemetryChannel.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.Web.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.WindowsServer.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.ApplicationInsights.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.FriendlyUrls.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.ScriptManager.MSAjax.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.ScriptManager.WebForms.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.Web.Infrastructure.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Newtonsoft.Json.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\System.Diagnostics.DiagnosticSource.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\System.Web.Optimization.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\WebGrease.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\System.Web.Optimization.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Newtonsoft.Json.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Antlr3.Runtime.pdb
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.FriendlyUrls.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\System.Diagnostics.DiagnosticSource.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.DependencyCollector.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.WindowsServer.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.Web.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbprojAssemblyReference.cache
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.Resources.resources
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbproj.GenerateResource.cache
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbproj.CoreCompileInputs.cache
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbproj.CopyComplete
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.dll
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\WebForms_Basic.xml
+S:\OneDrive\Visual Studio 2017\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.pdb
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\ApplicationInsights.config
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\VBASPTestbed.dll.config
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\VBASPTestbed.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\VBASPTestbed.pdb
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\WebForms_Basic.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\csc.exe
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\csc.exe.config
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\csc.rsp
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\csi.exe
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\csi.exe.config
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\csi.rsp
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.AppContext.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Console.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\vbc.exe
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\vbc.exe.config
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\vbc.rsp
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Antlr3.Runtime.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.Web.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Newtonsoft.Json.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\System.Web.Optimization.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\WebGrease.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\System.Web.Optimization.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Newtonsoft.Json.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Antlr3.Runtime.pdb
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.AI.Web.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbprojAssemblyReference.cache
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.Resources.resources
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbproj.GenerateResource.cache
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.vbproj.CopyComplete
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.dll
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\obj\Debug\WebForms_Basic.xml
+C:\Users\Alex\dev\VBASPTestbed\VBASPTestbed\obj\Debug\VBASPTestbed.pdb
